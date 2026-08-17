@@ -53,6 +53,9 @@ Screenshots of the Galaxy workflow and sequence statistics  results are provided
 ![Figure 3. 15 Longest Scaffolds](Screenshot evidence figure 2.png)
 
 
+
 ## Galaxy History & Reproducibility
 
-**Shared Galaxy History:** [View Complete Analysis History on Galaxy]([https://usegalaxy.org/](https://usegalaxy.org/u/eugene_7/h/genome-exploration-ii-ansag-panthera-pardus)...)
+[🔗 View Complete Analysis History on Galaxy]([YOUR_GALAXY_SHARE_LINK](https://usegalaxy.org/u/eugene_7/h/genome-exploration-ii-ansag-panthera-pardus)
+
+
