@@ -46,6 +46,12 @@ Overall, the results indicate a highly contiguous, chromosome-scale assembly in 
 Screenshots of the Galaxy workflow and sequence statistics  results are provided as evidence of the analysis steps and outputs.
 
 
+![Figure 1: Scaffold statistics](images/Figure 1.Screenshot.png)
+![Figure 2: Top 15 scaffolds bar chart](images/Figure 2.Screenshot.png)
+
+
+
+
 ![**Figure 1.** Screenshot showing the genome uploaded in Galaxy.]
 (Screenshot evidence Figure 1.png)
 
