@@ -46,19 +46,6 @@ Overall, the results indicate a highly contiguous, chromosome-scale assembly in 
 Screenshots of the Galaxy workflow and sequence statistics  results are provided as evidence of the analysis steps and outputs.
 
 
-![Figure 1: Scaffold statistics](images/Figure 1.Screenshot.png)
-![Figure 2: Top 15 scaffolds bar chart](images/Figure 2.Screenshot.png)
-
-
-
-
-![**Figure 1.** Screenshot showing the genome uploaded in Galaxy.]
-(Screenshot evidence Figure 1.png)
-
-![**Figure 2.** Screenshot showing the summary statistics of the Felis pardus genome assembly.]
-(Screenshot evidence figure 2.png)
-
-
 
 ## Galaxy History & Reproducibility
 [🔗 View Complete Analysis History on Galaxy](https://usegalaxy.org/u/eugene_7/h/genome-exploration-ii-ansag-panthera-pardus)
