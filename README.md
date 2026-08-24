@@ -42,8 +42,39 @@ ORF analysis demonstrated that open reading frames can be identified within the 
 
 Overall, the results indicate a highly contiguous, chromosome-scale assembly in which long scaffolds provide most of the genome representation.
 
-## Visual Evidence & Screenshots
-Screenshots of the Galaxy workflow and sequence statistics  results are provided as evidence of the analysis steps and outputs.
+## Visual Evidence and Screenshots
+The following figures document the Galaxy workflow and the main assembly
+statistics obtained during the analysis of the *Panthera pardus* genome.
+These outputs provide evidence of the analysis steps used to evaluate
+genome assembly structure and contiguity.
+
+### **Figure 1. Galaxy History and Analysis Workflow**
+
+The Galaxy History shows the sequence of tools used to characterize the
+*Panthera pardus* genome assembly, including assembly statistics,
+sequence-length filtering, scaffold-length calculation and sorting,
+ORF identification, and visualization of the longest scaffolds.
+
+<img width="2560" height="1600" alt="1000040605" src="https://github.com/user-attachments/assets/af6e0cd2-aa6f-456a-b126-feb0a01132bf" />
+
+
+**Figure 1.** Galaxy History showing the workflow used to analyze the
+*Panthera pardus* genome assembly (`GCF_024362965.1`).
+
+
+
+### **Figure 2. Assembly Summary Statistics**
+
+The assembly summary statistics provide the main characteristics of the
+*Panthera pardus* genome assembly before and after applying the 10-kb
+sequence-length filter. These statistics include the total number of
+sequences, total assembly length, N50, L50, and GC content.
+
+<img width="2560" height="1600" alt="ad07b12a-d6bc-4234-b353-7dafd3942b58-1_all_6554" src="https://github.com/user-attachments/assets/443e9804-385d-41b0-9703-8f468f6acf9d" />
+
+**Figure 2.** Summary statistics of the *Panthera pardus* genome assembly
+showing assembly size, sequence count, N50, L50, and GC content before
+and after filtering.
 
 
 
