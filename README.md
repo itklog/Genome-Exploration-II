@@ -1,4 +1,4 @@
-# Genome-Exploration-II
+# assignment_02_genome_exploration
 
 ## Species Info
 
@@ -30,7 +30,16 @@ To evaluate the genome assembly structure and contiguity of *Panthera pardus* by
 
 The assembly contained **382 sequences**, which decreased to **322** after filtering at ≥10 kb. This removed **60 short scaffolds** but caused only a negligible loss in assembly length (~0.0002 Gb), while **N50 (126.8 Mb)** and **GC content (41.75%)** remained unchanged. The 15 longest scaffolds ranged from approximately **89 to 205 Mb**, indicating that the assembly is dominated by large, chromosome-scale scaffolds.
 
-**Full Results Table:** [`results_table.md`](results_table.md) or [`results_table.csv`](results_table.csv)
+**Full Results Table:**
+# Table 1. Summary of genome assembly statistics for *Felis pardus*
+
+| Metric | Original genome | After ≥10 kb filter |
+| :--- | :--- | :--- |
+| **Total length** | 2,441,343,278 bp | 2,441,139,531 bp |
+| **Number of sequences** | 382 | 322 |
+| **Maximum length** | 204,851,300 bp | 204,851,300 bp |
+| **N50** | 126,810,544 bp | 126,810,544 bp |
+| **GC content** | 41.75% | 41.75% |
 
 ## Genome Interpretation
 
